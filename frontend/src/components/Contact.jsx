@@ -1,8 +1,8 @@
 export default function Contact() {
   const links = [
-    { label: 'Email', value: 'aryan.dubey@example.com', href: 'mailto:aryan.dubey@example.com', icon: '✉' },
-    { label: 'GitHub', value: 'github.com/aryandubey', href: '#', icon: '💻' },
-    { label: 'LinkedIn', value: 'linkedin.com/in/aryandubey', href: '#', icon: '💼' },
+    { label: 'Email', value: 'aryandubeysumit@gmail.com', href: 'mailto:aryandubeysumit@gmail.com', icon: '✉' },
+    { label: 'GitHub', value: 'https://github.com/AryanDu', href: 'https://github.com/AryanDu', icon: '💻' },
+    { label: 'LinkedIn', value: 'linkedin.com/in/aryan2727', href: 'https://www.linkedin.com/in/aryan2727/', icon: '💼' },
     { label: 'Resume', value: 'Download PDF', href: '#', icon: '📄' },
   ];
 

@@ -26,8 +26,6 @@ export default function Hobbies() {
         {loading && <p style={{ color: 'var(--muted)' }}>Loading…</p>}
         {!loading && posts.length === 0 && (
           <p style={{ color: 'var(--muted)' }}>
-            No posts yet — add your first travel or gym update from{' '}
-            <a href="/admin" style={{ color: 'var(--blue)' }}>/admin</a>.
           </p>
         )}
 
