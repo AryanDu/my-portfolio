@@ -28,8 +28,6 @@ export default function Projects() {
         )}
         {!loading && !error && projects.length === 0 && (
           <p style={{ color: 'var(--muted)' }}>
-            No projects yet — add your first one from the admin panel at{' '}
-            <a href="/admin" style={{ color: 'var(--blue)' }}>/admin</a>.
           </p>
         )}
 

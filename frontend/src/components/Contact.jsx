@@ -3,7 +3,7 @@ export default function Contact() {
     { label: 'Email', value: 'aryandubeysumit@gmail.com', href: 'mailto:aryandubeysumit@gmail.com', icon: '✉' },
     { label: 'GitHub', value: 'https://github.com/AryanDu', href: 'https://github.com/AryanDu', icon: '💻' },
     { label: 'LinkedIn', value: 'linkedin.com/in/aryan2727', href: 'https://www.linkedin.com/in/aryan2727/', icon: '💼' },
-    { label: 'Resume', value: 'Download PDF', href: '#', icon: '📄' },
+    { label: 'Resume', value: 'Download PDF', href: 'https://docs.google.com/document/d/15GY1h8OC_ZoYvPfhdOPXjtaSrTCBkJ6s/edit?usp=sharing&ouid=103065779805969019320&rtpof=true&sd=true', icon: '📄' },
   ];
 
   return (
